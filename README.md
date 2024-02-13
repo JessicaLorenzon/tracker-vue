@@ -1,24 +1,8 @@
-# tracker-vue
+# tracker
 
-## Project setup
-```
-npm install
-```
+Projeto criado durante o curso [Vue3: explorando o framework](https://cursos.alura.com.br/course/vue3-comecando-framework), da Alura.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Você pode ver o resultado final [aqui](https://tracker-vue-ashen.vercel.app/).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![tracker-vue](tracker-vue.png)
+![tracker-vue2](tracker-vue2.png)
